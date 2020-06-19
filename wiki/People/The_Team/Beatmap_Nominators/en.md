@@ -173,6 +173,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | :-- | :-- |
 | ![][flag_TH] [-Luminate](https://osu.ppy.sh/users/4778689) | Thai |
 | ![][flag_GB] [Baron](https://osu.ppy.sh/users/10286499) |  |
+| ![][flag_CL] [Bastian](https://osu.ppy.sh/users/6345176) | Spanish |
 | ![][flag_NL] [Dako](https://osu.ppy.sh/users/11081858) | Dutch |
 | ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) |  |
 | ![][flag_US] [Secre](https://osu.ppy.sh/users/2306637) |  |
