@@ -55,7 +55,7 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 | ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410) | 西班牙语 |
 | ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958) |  |
 | ![][flag_ID] [Hinsvar](https://osu.ppy.sh/users/1249323) | 印度尼西亚语 |
-| ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) |  |
+| ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | Bengali, 部分阿拉伯语 |
 | ![][flag_DE] [Icekalt](https://osu.ppy.sh/users/5410645) | 德语 |
 | ![][flag_CA] [jonathanlfj](https://osu.ppy.sh/users/270377) | 中文, 部分法语 |
 | ![][flag_NL] [Kaitjuh](https://osu.ppy.sh/users/2225327) | 荷兰语 |
@@ -128,6 +128,7 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 | ![][flag_US] [Kamuy](https://osu.ppy.sh/users/7439226) | 部分韩语 |
 | ![][flag_KR] [Kawawa](https://osu.ppy.sh/users/4647754) | 韩语 |
 | ![][flag_AU] [Keiga](https://osu.ppy.sh/users/6866022) | 中文 |
+| ![][flag_HK] [PokeSky](https://osu.ppy.sh/users/3617111) | 中文, 粤语 |
 | ![][flag_ID] [Rivals_7](https://osu.ppy.sh/users/4610379) | 印度尼西亚语 |
 | ![][flag_DZ] [Scotty](https://osu.ppy.sh/users/11085809) | 阿拉伯语, 法语 |
 | ![][flag_KR] [Sun](https://osu.ppy.sh/users/4115819) | 韩语 |
@@ -182,7 +183,6 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 | 名字 | 语言 |
 | :-- | :-- |
 | ![][flag_MY] [Kyousukee](https://osu.ppy.sh/users/8842107) | 印度尼西亚语, 马来语 |
-| ![][flag_HK] [PokeSky](https://osu.ppy.sh/users/3617111) | 中文, 粤语 |
 | ![][flag_CN] [Shima Rin](https://osu.ppy.sh/users/6089608) | 中文 |
 
 [flag_AR]: /wiki/shared/flag/AR.gif "阿根廷"
