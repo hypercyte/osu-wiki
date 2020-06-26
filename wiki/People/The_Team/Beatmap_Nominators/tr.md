@@ -55,7 +55,7 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410) | İspanyolca |
 | ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958) |  |
 | ![][flag_ID] [Hinsvar](https://osu.ppy.sh/users/1249323) | Endonezce |
-| ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) |  |
+| ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | Bengalce, biraz Arapça |
 | ![][flag_DE] [Icekalt](https://osu.ppy.sh/users/5410645) | Almanca |
 | ![][flag_CA] [jonathanlfj](https://osu.ppy.sh/users/270377) | Çince, biraz Fransızca |
 | ![][flag_NL] [Kaitjuh](https://osu.ppy.sh/users/2225327) | Flemenkçe |
@@ -128,6 +128,7 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | ![][flag_US] [Kamuy](https://osu.ppy.sh/users/7439226) | Biraz Korece |
 | ![][flag_KR] [Kawawa](https://osu.ppy.sh/users/4647754) | Korece |
 | ![][flag_AU] [Keiga](https://osu.ppy.sh/users/6866022) | Çince |
+| ![][flag_HK] [PokeSky](https://osu.ppy.sh/users/3617111) | Çince, Kantonca |
 | ![][flag_ID] [Rivals_7](https://osu.ppy.sh/users/4610379) | Endonezce |
 | ![][flag_DZ] [Scotty](https://osu.ppy.sh/users/11085809) | Arapça, Fransızca |
 | ![][flag_KR] [Sun](https://osu.ppy.sh/users/4115819) | Korece |
@@ -182,7 +183,6 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | İsim | Ek diller |
 | :-- | :-- |
 | ![][flag_MY] [Kyousukee](https://osu.ppy.sh/users/8842107) | Endonezce, Malay dili |
-| ![][flag_HK] [PokeSky](https://osu.ppy.sh/users/3617111) | Çince, Kantonca |
 | ![][flag_CN] [Shima Rin](https://osu.ppy.sh/users/6089608) | Çince |
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Arjantin"
